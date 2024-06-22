@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\controllers\\publicacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:controllers\\publicacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\controllers\\notificacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:controllers\\notificacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\data\\editoracontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:data\\editoracontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Migrations\\20240619192906_SecondMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240619192906_SecondMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\services\\recuperacaosenhaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:services\\recuperacaosenhaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\migrations\\editoracontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:migrations\\editoracontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\migrations\\20240619175041_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:migrations\\20240619175041_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\models\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:models\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\models\\publicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:models\\publicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\dtos\\resetarsenhadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:dtos\\resetarsenhadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\dtos\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:dtos\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\editora-unifeso-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:editora-unifeso-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\models\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:models\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\models\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:models\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\services\\argon2passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:services\\argon2passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\services\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:services\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\editora unifeso\\editora-unifeso-api\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8E739B6F-EBD2-427C-B22B-357BE2F91CD5}|Editora-Unifeso-API.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-19T00:10:39.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Editora-Unifeso-API.http",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Editora-Unifeso-API.http",
+              "RelativeDocumentMoniker": "Editora-Unifeso-API.http",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Editora-Unifeso-API.http",
+              "RelativeToolTip": "Editora-Unifeso-API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-19T00:10:59.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Publicacao.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Models\\Publicacao.cs",
+              "RelativeDocumentMoniker": "Models\\Publicacao.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Models\\Publicacao.cs",
+              "RelativeToolTip": "Models\\Publicacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T00:16:29.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Comentario.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Models\\Comentario.cs",
+              "RelativeDocumentMoniker": "Models\\Comentario.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Models\\Comentario.cs",
+              "RelativeToolTip": "Models\\Comentario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T00:17:27.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Avaliacao.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Models\\Avaliacao.cs",
+              "RelativeDocumentMoniker": "Models\\Avaliacao.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Models\\Avaliacao.cs",
+              "RelativeToolTip": "Models\\Avaliacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T00:18:22.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditoraContext.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Data\\EditoraContext.cs",
+              "RelativeDocumentMoniker": "Data\\EditoraContext.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Data\\EditoraContext.cs",
+              "RelativeToolTip": "Data\\EditoraContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T00:18:44.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T00:20:36.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T00:57:59.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-19T01:06:52.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-19T01:08:03.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PublicacoesController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Controllers\\PublicacoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PublicacoesController.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Controllers\\PublicacoesController.cs",
+              "RelativeToolTip": "Controllers\\PublicacoesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAE8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:45:37.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Services\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "Services\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Services\\IPasswordHasher.cs",
+              "RelativeToolTip": "Services\\IPasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:52:05.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Argon2PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Services\\Argon2PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Services\\Argon2PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Services\\Argon2PasswordHasher.cs",
+              "RelativeToolTip": "Services\\Argon2PasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:52:54.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240619175041_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Migrations\\20240619175041_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240619175041_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Migrations\\20240619175041_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240619175041_InitialCreate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:50:41.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:29:16.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificacoesController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Controllers\\NotificacoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotificacoesController.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Controllers\\NotificacoesController.cs",
+              "RelativeToolTip": "Controllers\\NotificacoesController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:29:52.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:30:08.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmailDto.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\DTOs\\EmailDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\EmailDto.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\DTOs\\EmailDto.cs",
+              "RelativeToolTip": "DTOs\\EmailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:30:45.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ResetarSenhaDto.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\DTOs\\ResetarSenhaDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ResetarSenhaDto.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\DTOs\\ResetarSenhaDto.cs",
+              "RelativeToolTip": "DTOs\\ResetarSenhaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:31:00.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\DTOs\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\DTOs\\UsuarioDto.cs",
+              "RelativeToolTip": "DTOs\\UsuarioDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:44:47.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:45:51.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Notificacao.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Models\\Notificacao.cs",
+              "RelativeDocumentMoniker": "Models\\Notificacao.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Models\\Notificacao.cs",
+              "RelativeToolTip": "Models\\Notificacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:59:45.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:00:16.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecuperacaoSenhaService.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Services\\RecuperacaoSenhaService.cs",
+              "RelativeDocumentMoniker": "Services\\RecuperacaoSenhaService.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Services\\RecuperacaoSenhaService.cs",
+              "RelativeToolTip": "Services\\RecuperacaoSenhaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:00:39.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Services\\UsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:01:05.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditoraContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Migrations\\EditoraContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\EditoraContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Migrations\\EditoraContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\EditoraContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:26:35.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240619192906_SecondMigration.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Migrations\\20240619192906_SecondMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240619192906_SecondMigration.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Editora Unifeso\\Editora-Unifeso-API\\Migrations\\20240619192906_SecondMigration.cs",
+              "RelativeToolTip": "Migrations\\20240619192906_SecondMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:29:06.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

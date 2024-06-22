@@ -1,0 +1,23 @@
+.publicacao-header {
+    background-color: #006400;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .publicacao-download {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #006400;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .publicacao-download:hover {
+    background-color: #004d00;
+  }
+  

@@ -1,0 +1,155 @@
+/* Styles/Home.css */
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.home-container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Banner Section */
+.banner {
+  background-image: url('/src/Styles/Imagens/PARALAX.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 60px 20px;
+  color: #fff;
+  text-align: center;
+}
+
+.banner-content h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.banner-content p {
+  font-size: 1.2rem;
+}
+
+/* Destaques Section */
+.destaques {
+  padding: 40px 20px;
+  background-color: #f9f9f9;
+}
+
+.destaques-content h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.destaque-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.destaque-item img {
+  width: 150px;
+  height: 100px;
+  object-fit: cover;
+  margin-right: 20px;
+}
+
+.destaque-text h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.destaque-text p {
+  margin-bottom: 10px;
+}
+
+.saiba-mais {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+/* Sobre Section */
+.sobre {
+  padding: 40px 20px;
+}
+
+.sobre-content h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.sobre-content p {
+  text-align: center;
+  font-size: 1rem;
+}
+
+/* Colunistas Section */
+.colunistas {
+  padding: 40px 20px;
+  background-color: #f9f9f9;
+}
+
+.colunistas-content h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.colunista-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.colunista-item img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.colunista-info h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.colunista-info p {
+  margin-bottom: 0;
+}
+
+/* Footer Section */
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 40px 20px;
+}
+
+.footer-content {
+  text-align: center;
+}
+
+.footer-content h3 {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.footer-content p {
+  margin-bottom: 20px;
+}
+
+.social-links a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+  transition: color 0.3s;
+}
+
+.social-links a:hover {
+  color: #007BFF;
+}

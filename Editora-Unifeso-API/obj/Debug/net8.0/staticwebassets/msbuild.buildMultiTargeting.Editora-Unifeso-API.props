@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Editora-Unifeso-API.props" />
+</Project>

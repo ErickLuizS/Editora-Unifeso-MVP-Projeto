@@ -1,0 +1,6 @@
+@Editora_Unifeso_API_HostAddress = http://localhost:5068
+
+GET {{Editora_Unifeso_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
