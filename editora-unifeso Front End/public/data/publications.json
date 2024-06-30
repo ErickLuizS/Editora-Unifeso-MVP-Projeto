@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Entendendo JSON",
+    "id": 1,
+    "author": "João Silva",
+    "date": "2024-01-15",
+    "summary": "Um guia introdutório sobre JSON e seus usos."
+  },
+  {
+    "title": "Programação Java Avançada",
+    "id": 2,
+    "author": "Maria Oliveira",
+    "date": "2023-12-20",
+    "summary": "Explorando conceitos avançados na programação Java."
+  },
+  {
+    "title": "Melhores Práticas para Desenvolvimento de API",
+    "id": 3,
+    "author": "Alice Souza",
+    "date": "2024-03-10",
+    "summary": "Melhores práticas para desenvolver APIs robustas."
+  },
+  {
+    "title": "Fundamentos de Aprendizado de Máquina",
+    "id": 4,
+    "author": "Pedro Ferreira",
+    "date": "2024-02-05",
+    "summary": "Introdução aos conceitos básicos de aprendizado de máquina."
+  },
+  {
+    "title": "Desenvolvimento Web com JavaScript",
+    "id": 5,
+    "author": "Fernanda Lima",
+    "date": "2024-01-30",
+    "summary": "Guia completo para desenvolvimento web utilizando JavaScript."
+  },
+  {
+    "title": "Introdução ao React",
+    "id": 6,
+    "author": "Lucas Almeida",
+    "date": "2024-02-18",
+    "summary": "Um guia para iniciantes sobre o framework React."
+  },
+  {
+    "title": "Desenvolvendo APIs RESTful",
+    "id": 7,
+    "author": "Carla Martins",
+    "date": "2024-03-01",
+    "summary": "Como desenvolver APIs RESTful com boas práticas."
+  },
+  {
+    "title": "Banco de Dados Relacional",
+    "id": 8,
+    "author": "Rafael Costa",
+    "date": "2024-02-12",
+    "summary": "Introdução aos conceitos de banco de dados relacional."
+  },
+  {
+    "title": "Desenvolvimento Ágil",
+    "id": 9,
+    "author": "Ana Rocha",
+    "date": "2024-01-25",
+    "summary": "Princípios e práticas de desenvolvimento ágil."
+  },
+  {
+    "title": "Python para Iniciantes",
+    "id": 10,
+    "author": "Tiago Barbosa",
+    "date": "2024-01-18",
+    "summary": "Um guia para iniciantes na linguagem de programação Python."
+  },
+  {
+    "title": "Noções de Segurança em Desenvolvimento de Software",
+    "id": 11,
+    "author": "Isabela Pereira",
+    "date": "2024-03-15",
+    "summary": "Conceitos básicos de segurança no desenvolvimento de software."
+  },
+  {
+    "title": "Desenvolvimento Mobile com Flutter",
+    "id": 12,
+    "author": "Gustavo Nogueira",
+    "date": "2024-02-22",
+    "summary": "Criando aplicações móveis com o framework Flutter."
+  },
+  {
+    "title": "Testes Automatizados em Java",
+    "id": 13,
+    "author": "Camila Antunes",
+    "date": "2024-01-28",
+    "summary": "Como implementar testes automatizados em projetos Java."
+  },
+  {
+    "title": "Boas Práticas de Codificação",
+    "id": 14,
+    "author": "Bruno Mendes",
+    "date": "2024-03-05",
+    "summary": "Práticas recomendadas para escrever código de qualidade."
+  },
+  {
+    "title": "Git e Controle de Versão",
+    "id": 15,
+    "author": "Mariana Santos",
+    "date": "2024-02-08",
+    "summary": "Uma introdução ao uso do Git para controle de versão."
+  },
+  {
+    "title": "Desenvolvimento Full Stack",
+    "id": 16,
+    "author": "Rodrigo Gomes",
+    "date": "2024-02-26",
+    "summary": "Guia completo para desenvolvimento full stack."
+  },
+  {
+    "title": "Microserviços com Spring Boot",
+    "id": 17,
+    "author": "Juliana Ribeiro",
+    "date": "2024-03-12",
+    "summary": "Como construir microserviços utilizando Spring Boot."
+  },
+  {
+    "title": "Integração Contínua e Entrega Contínua",
+    "id": 18,
+    "author": "Ricardo Vieira",
+    "date": "2024-01-22",
+    "summary": "Práticas de CI/CD para desenvolvimento de software."
+  },
+  {
+    "title": "Introdução ao Docker",
+    "id": 19,
+    "author": "Patrícia Fonseca",
+    "date": "2024-02-14",
+    "summary": "Um guia para iniciantes sobre o uso de Docker."
+  },
+  {
+    "title": "Construindo Aplicações Serverless",
+    "id": 20,
+    "author": "Eduardo Moreira",
+    "date": "2024-03-08",
+    "summary": "Como desenvolver aplicações serverless com AWS."
+  }
+]

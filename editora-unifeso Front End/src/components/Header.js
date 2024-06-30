@@ -22,7 +22,7 @@ function Header() {
         <nav className="header-nav">
           <ul>
             <li><Link to="/">Início</Link></li>
-            <li><Link to="/Publications">Publicações</Link></li>
+            <li><Link to="/publicacoes">Publicações</Link></li>
             {isAdmin ? (
               <li><Link to="/admin">Admin</Link></li>
             ) : (

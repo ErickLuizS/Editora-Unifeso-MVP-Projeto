@@ -11,6 +11,7 @@ import ResetarSenha from './components/ResetarSenha';
 import HistoricoNotificacoes from './components/HistoricoNotificacoes';
 import Header from './components/Header';
 import './Styles/App.css'
+import Publications from './components/Publications.js';
 
 export const AuthContext = createContext();
 
@@ -32,6 +33,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home/>} />
           <Route path="/publicacao/:id" element={<PublicacaoDetalhes />} />
+          <Route path="/publicacoes" element={<Publications />} />
           <Route path="/admin" element={authToken && isAdmin ? <Admin /> : <Navigate to="/login" />} />
           <Route path="/login" element={<Login />} />
           <Route path="/register" element={<Register />} />

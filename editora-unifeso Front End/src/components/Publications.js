@@ -1,5 +1,7 @@
+import axios from 'axios';
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
+import '../Styles/Home.css';
 
 const Publications = () => {
   const location = useLocation();
@@ -7,9 +9,8 @@ const Publications = () => {
   const [publications, setPublications] = useState([]);
 
   useEffect(() => {
-    fetch('/data/publications.json')
-      .then(response => response.json())
-      .then(data => {
+    axios.get('/data/publications.json')
+      .then(({data}) => {
         // Ordenar as publicações da mais recente para a mais antiga
         const sortedPublications = data.sort((a, b) => new Date(b.date) - new Date(a.date));
         setPublications(sortedPublications);
@@ -20,11 +21,11 @@ const Publications = () => {
   const displayPublications = resultados.length > 0 ? resultados : publications;
 
   return (
-    <section id="publications">
-      <h2>Publicações</h2>
+    <section id="publications" className="home-container" style={{ marginTop: '25px' }}>
+      <h2 style={{ marginBottom: '25px' }}>Publicações</h2>
       <div className="publication-list">
         {displayPublications.map(publication => (
-          <div className="publication" key={publication.id}>
+          <div className="publication destaques" key={publication.id}>
             <h3>{publication.title}</h3>
             <p><strong>Autor:</strong> {publication.author}</p>
             <p><strong>Data:</strong> {publication.date}</p>

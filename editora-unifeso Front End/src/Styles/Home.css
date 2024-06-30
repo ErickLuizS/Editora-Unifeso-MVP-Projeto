@@ -51,6 +51,18 @@ body {
   margin-bottom: 20px;
 }
 
+.destaque-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.publication-list {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
 .destaque-item img {
   width: 150px;
   height: 100px;
