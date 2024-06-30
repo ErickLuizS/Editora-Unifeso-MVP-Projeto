@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { AuthContext } from '../App';
 import BuscaAvancada from './BuscaAvancada';
 import '../Styles/Header.css';
+import Logo from '../Styles/Imagens/logo.png';
 
 function Header() {
   const { isAdmin } = useContext(AuthContext);
@@ -16,7 +17,7 @@ function Header() {
     <header className="header">
       <div className="header-container">
         <div className="logo">
-          <img src="src/Styles/Imagens/logo.png" alt="Logo" className="logo-img" />
+          <img src={Logo} alt="Logo" className="logo-img" />
         </div>
         <nav className="header-nav">
           <ul>
@@ -31,7 +32,7 @@ function Header() {
           </ul>
         </nav>
         <div className="search-icon" onClick={toggleSearch}>
-          <img src="/images/search-icon.png" alt="Buscar" />
+          <img src="https://www.freeiconspng.com/uploads/search-icon-png-21.png" alt="Buscar" />
         </div>
       </div>
       {searchVisible && <BuscaAvancada />}
