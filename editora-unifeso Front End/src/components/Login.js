@@ -29,11 +29,11 @@ function Login() {
       </header>
       <form onSubmit={handleSubmit} className="login-form">
         <label>
-          Username:
+          Usuário:
           <input type="text" value={username} onChange={e => setUsername(e.target.value)} required />
         </label>
         <label>
-          Password:
+          Senha:
           <input type="password" value={password} onChange={e => setPassword(e.target.value)} required />
         </label>
         <button type="submit">Login</button>

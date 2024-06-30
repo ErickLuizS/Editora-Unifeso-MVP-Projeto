@@ -19,7 +19,7 @@ function Home() {
           <div className="destaques-content">
             <h2>Destaques</h2>
             <div className="destaque-item">
-              <img src="/images/destaque1.jpg" alt="Destaques" />
+              <img src="https://images.pexels.com/photos/13650913/pexels-photo-13650913.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Destaques" />
               <div className="destaque-text">
                 <h3>Título do Destaque 1</h3>
                 <p>Descrição breve do destaque. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -27,7 +27,7 @@ function Home() {
               </div>
             </div>
             <div className="destaque-item">
-              <img src="/images/destaque2.jpg" alt="Destaques" />
+              <img src="https://images.pexels.com/photos/10863290/pexels-photo-10863290.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Destaques" />
               <div className="destaque-text">
                 <h3>Título do Destaque 2</h3>
                 <p>Descrição breve do destaque. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -48,14 +48,14 @@ function Home() {
           <div className="colunistas-content">
             <h2>Colunistas</h2>
             <div className="colunista-item">
-              <img src="/images/colunista1.jpg" alt="Colunistas" />
+              <img src="https://images.pexels.com/photos/39866/entrepreneur-startup-start-up-man-39866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Colunistas" />
               <div className="colunista-info">
                 <h3>Nome do Colunista 1</h3>
                 <p>Descrição breve do colunista. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
               </div>
             </div>
             <div className="colunista-item">
-              <img src="/images/colunista2.jpg" alt="Colunistas" />
+              <img src="https://images.pexels.com/photos/845457/pexels-photo-845457.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Colunistas" />
               <div className="colunista-info">
                 <h3>Nome do Colunista 2</h3>
                 <p>Descrição breve do colunista. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
