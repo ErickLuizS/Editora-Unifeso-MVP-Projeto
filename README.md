@@ -1,6 +1,9 @@
 # MVP-Editora-Unifeso
 
-**Membro:** Erick Luiz Almeida Santos
+**Membros:** 
+- Erick Luiz Almeida Santos  
+- Igor Assumpção de Oliveira
+- Hagos Lindey Muniz Costa
 
 **Tema:** Reestruturação do site da Editora Unifeso para tornar a produção científica mais acessível e compreensível para a comunidade Unifeso.
 
